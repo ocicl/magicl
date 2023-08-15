@@ -4,6 +4,6 @@ Matrix Algebra proGrams In Common Lisp.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/quil-lang/magicl.git |
-| commit  | 4914ed1                                     |
+| commit  | e641175                                     |
 | systems | magicl magicl-gen magicl-transcendental     |
 |---------+---------------------------------------------|
